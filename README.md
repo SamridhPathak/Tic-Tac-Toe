@@ -6,8 +6,8 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 - Two-player gameplay (Player O and Player X)
 - Responsive design for desktop and mobile
-- Visual turn indicators and winning line highlight
-- Game reset functionality
+- Winning and draw game line highlight
+- Game reset and new game functionality
 
 ## 🛠️ Technologies Used
 
